@@ -1,2 +1,2 @@
 # Fast-BPE
-Exploring all the various Bpe implementation to run fastest BPE tokenizer
+Exploring and benchmarking multiple Byte Pair Encoding (BPE) implementations to build the fastest possible BPE tokenizer.
